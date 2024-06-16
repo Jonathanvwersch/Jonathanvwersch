@@ -3,7 +3,7 @@
 ## Welcome to my personal Github Profile
 
 - 💼 I currently work at [Improbable](https://www.improbable.io).
-- 🌱 I’m currently trying to learn more about Deep Learning and Python.
+- 🌱 I took a bit of a break from programming outside of work during the last six months to improve my data structures and algorithms skills on [Leetcode](https://leetcode.com/u/JvW/)
 
 ## My GitHub Statistics
 
