@@ -3,8 +3,7 @@
 ## Welcome to my personal Github Profile
 
 - 💼 I currently work at [Improbable](https://www.improbable.io).
-- 🌱 I took a bit of a break from programming outside of work during the last six months to improve my data structures and algorithms skills on [Leetcode](https://leetcode.com/u/JvW/)
-
+- 🌱 Outside of my day job, I like to work on side projects. Currently hacking on embedding-based code search. 
 ## My GitHub Statistics
 
 ![Your GitHub stats](https://github-readme-stats-gold-tau-46.vercel.app/api?username=jonathanvwersch&show_icons=true&theme=radical&&hide=stars,contribs,grade&hide_rank=true)
