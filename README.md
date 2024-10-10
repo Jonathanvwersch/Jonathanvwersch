@@ -2,7 +2,7 @@
 
 ## Welcome to my personal Github Profile
 
-- 💼 I currently work at [Improbable](https://www.improbable.io).
+- 💼 I currently work at Meta
 - 🌱 Outside of my day job, I like to work on side projects. Currently hacking on embedding-based code search. 
 ## My GitHub Statistics
 
