@@ -32,6 +32,3 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jonathan-van-wersch#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jonathan-van-wersch#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/jonathanvwersch#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/jonathanvwersch#gh-dark-mode-only)
