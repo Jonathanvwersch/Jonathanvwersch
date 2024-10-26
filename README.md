@@ -27,8 +27,8 @@
 
 ## Connect with me:
 
-[![website](./img/globe-light.svg)](https://j-vw.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://j-vw.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://j-vw.com)
+[![website](./img/globe-dark.svg)](https://j-vw.com)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/jonathan-van-wersch#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jonathan-van-wersch#gh-dark-mode-only)
